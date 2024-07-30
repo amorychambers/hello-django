@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['amorychambers-django-todo-list-3a434e801976.herokuapp.com/']
+ALLOWED_HOSTS = ['amorychambers-django-todo-list-3a434e801976.herokuapp.com']
 
 
 # Application definition
